@@ -16,7 +16,7 @@ class loginInputNama : AppCompatActivity() {
         if (jumlahPlayerLogin != null) {
             tvJumlahPlayer.text = "Jumlah player yang akan bermain adalah " + jumlahPlayerLogin
         }
-        
+
         btnInputNama.setOnClickListener {
 
         }
